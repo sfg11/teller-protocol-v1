@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 // funcs to deposit and remove liquidity  on curve
 
 pragma solidity ^0.8.0;
